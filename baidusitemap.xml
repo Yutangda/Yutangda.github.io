@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://example.com/posts/256d780b/</loc>
+    <lastmod>2021-09-27</lastmod>
+  </url>
+  <url>
     <loc>http://example.com/posts/f02a6f6d/</loc>
+    <lastmod>2021-09-27</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/posts/2d68f553/</loc>
     <lastmod>2021-09-27</lastmod>
   </url>
   <url>
@@ -49,20 +57,12 @@
     <lastmod>2021-09-09</lastmod>
   </url>
   <url>
-    <loc>http://example.com/posts/2d68f553/</loc>
-    <lastmod>2021-08-01</lastmod>
-  </url>
-  <url>
     <loc>http://example.com/posts/2d23d360/</loc>
     <lastmod>2021-07-29</lastmod>
   </url>
   <url>
     <loc>http://example.com/posts/b3516ab8/</loc>
     <lastmod>2021-07-22</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/posts/256d780b/</loc>
-    <lastmod>2021-06-17</lastmod>
   </url>
   <url>
     <loc>http://example.com/posts/b638acf0/</loc>
