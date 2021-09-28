@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://example.com/posts/bc71ccc7/</loc>
+    <lastmod>2021-09-28</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/posts/cf660fc3/</loc>
+    <lastmod>2021-09-28</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/posts/2bb4c451/</loc>
+    <lastmod>2021-09-28</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/posts/b3516ab8/</loc>
+    <lastmod>2021-09-28</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/posts/a09486d2/</loc>
+    <lastmod>2021-09-28</lastmod>
+  </url>
+  <url>
     <loc>http://example.com/posts/8208f433/</loc>
+    <lastmod>2021-09-28</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/posts/bc71ccc7/</loc>
     <lastmod>2021-09-28</lastmod>
   </url>
   <url>
@@ -29,10 +53,6 @@
     <lastmod>2021-09-27</lastmod>
   </url>
   <url>
-    <loc>http://example.com/posts/cf660fc3/</loc>
-    <lastmod>2021-09-27</lastmod>
-  </url>
-  <url>
     <loc>http://example.com/posts/80c5d641/</loc>
     <lastmod>2021-09-22</lastmod>
   </url>
@@ -53,15 +73,7 @@
     <lastmod>2021-09-09</lastmod>
   </url>
   <url>
-    <loc>http://example.com/posts/bc71ccc7/</loc>
-    <lastmod>2021-09-09</lastmod>
-  </url>
-  <url>
     <loc>http://example.com/posts/ac2a2177/</loc>
-    <lastmod>2021-09-09</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/posts/a09486d2/</loc>
     <lastmod>2021-09-09</lastmod>
   </url>
   <url>
@@ -69,15 +81,7 @@
     <lastmod>2021-07-29</lastmod>
   </url>
   <url>
-    <loc>http://example.com/posts/b3516ab8/</loc>
-    <lastmod>2021-07-22</lastmod>
-  </url>
-  <url>
     <loc>http://example.com/posts/b638acf0/</loc>
-    <lastmod>2021-06-11</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/posts/2bb4c451/</loc>
     <lastmod>2021-06-11</lastmod>
   </url>
   <url>
